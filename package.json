@@ -2,9 +2,9 @@
   "name": "ticker",
   "version": "1.0.0",
   "description": "my sample node app",
-  "main": "package.js",
+  "main": "process.js",
   "scripts": {
-  "start": "node package.js"
+  "start": "node process.js"
 },
   "repository": {
   "type": "git",
