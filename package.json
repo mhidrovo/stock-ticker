@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongodb":"^6.14.12"
+    "mongodb":"3.6.6"
   },
   "bugs": {
   "url": ""
